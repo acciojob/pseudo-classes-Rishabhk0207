@@ -1,9 +1,12 @@
 /*  your css code here. If applicable */
-#first-child{
+p:first-child{
 	background-color:black;
 	color:white;
 }
-#last-child{
+p:nth-child(2){
+	color:black;
+}
+p:last-child{
 	color:red;
 }
  :root {
