@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+#first-child{
+	background-color:black;
+	color:white;
+}
+#last-child{
+	color:red;
+}
+#one{
+	font-size:22px;
+	background-color:pink;
+	width:50%;
+	padding:10px;
+	
+}
+#five{
+	font-size:22px;
+		width:50%;
+	padding:10px;
+}
